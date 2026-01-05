@@ -1,6 +1,6 @@
 ### Eae 👋
 
-#### Meu nome é Neto, tenho 22 anos e sou estudante na área de TI com foco em Desenvolvimento Web.
+#### Meu nome é Neto, tenho 23 anos e sou estudante na área de TI com foco em Desenvolvimento Web.
 ##
 <div>
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristidesJBN&layout=compact&langs_count=7&&theme=highcontrast&show_icons=true"/>
